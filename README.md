@@ -13,7 +13,7 @@ This repository contains my **daily DSA practice in Java**.
 - Clean and readable Java code
 
 ## 🔥 Started On
-- Date: 12 Jan 2026
+- Date: 1 Jan 2026
 
 ## 🛠 Language
 - Java
